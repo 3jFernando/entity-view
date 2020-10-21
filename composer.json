@@ -1,0 +1,16 @@
+{
+    "name": "3jfernando/entity-view",
+    "description": "manejo facil del ORM en laravel",
+    "authors": [
+        {
+            "name": "fernandogarcia",
+            "email": "fernando.claros@misena.edu.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fernando\\entityview\\": "src/"
+        }
+    }
+}
