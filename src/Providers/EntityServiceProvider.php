@@ -1,6 +1,6 @@
 <?php
  
-namespace fernando\entityview\Providers;
+namespace Fernando\EntityView\Providers;
  
 use Illuminate\Support\ServiceProvider;
  

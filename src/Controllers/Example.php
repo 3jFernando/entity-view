@@ -1,6 +1,6 @@
 <?php
 
-namespace fernando\entityview\Controllers;
+namespace Fernando\EntityView\Controllers;
 
 use App\Http\Controllers\Controller;
 
