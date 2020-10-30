@@ -1,3 +1,5 @@
 <?php
 
-Route::get('entityview', 'Fernando\EntityView\Controllers\Example@index');
+use Fernando\EntityView\Controllers\Example;
+
+Route::get('entityview', [Example::class, 'index']);

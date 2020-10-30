@@ -10,7 +10,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "fernando\\entityview\\": "src/"
+            "Fernando\\EntityView\\": "src/"
         }
     }
 }
